@@ -2,7 +2,7 @@
 
 Kişisel kariyer asistanı — İK profesyonellerine yönelik, özgeçmiş bilgileri üzerinden otonom yanıt veren agentic chatbot. OpenAI Function Calling ve Gradio ile çalışır.
 
-Demo: huggingface.co/spaces/Muratcan22/career_conversation_v3
+Demo: Demo: [huggingface.co/spaces/Muratcan22/career_conversation_v3](https://huggingface.co/spaces/Muratcan22/career_conversation_v3)
 
 ## Mimari
 
