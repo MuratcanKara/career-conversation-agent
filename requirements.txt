@@ -1,0 +1,6 @@
+openai
+gradio
+pydantic
+python-dotenv
+pypdf
+requests

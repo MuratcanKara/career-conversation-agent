@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.gradio/
+.DS_Store
+Thumbs.db
+.cursor/
+
+# Kişisel veri dosyaları (telefon, email, özgeçmiş)
+me/Profile.pdf
+me/summary.txt

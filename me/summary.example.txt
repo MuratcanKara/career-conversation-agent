@@ -1,0 +1,21 @@
+AD SOYAD
+Ünvan / Alan | Şehir
+LinkedIn | GitHub
+
+PROFESYONEL ÖZET
+Buraya kısa bir kariyer özeti yazın.
+
+DENEYİM
+Şirket Adı | Pozisyon | Tarih
+- Görev açıklaması
+
+PROJELER
+Proje Adı | Kullanılan Teknolojiler
+- Proje açıklaması
+
+YETENEKLER
+- Yazılım Dilleri: ...
+- Araçlar: ...
+
+EĞİTİM
+Üniversite | Bölüm | Tarih
